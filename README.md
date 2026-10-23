@@ -392,4 +392,4 @@ Comprehensive exploratory data analysis, feature engineering, model training, hy
 
 ## Author
 
-Built by [Priyanshu Verma](https://github.com/Priyanshukv06)
+Built by [Pushkar Verma](https://github.com/Pushkarkv)

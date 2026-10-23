@@ -80,7 +80,7 @@ def refactor_streamlit_app():
             st.markdown("### 📂 Project")
             st.markdown(
                 "[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?logo=github&style=for-the-badge)]"
-                "(https://github.com/Priyanshukv06/cost-estimation)"
+                "(https://github.com/Pushkarkv/cost-estimation)"
             )
             st.caption("Built with FastAPI + scikit-learn")
             st.caption(f"Backend: `{API_BASE}`")
